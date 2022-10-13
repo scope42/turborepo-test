@@ -12,7 +12,7 @@ This Turborepo includes the following:
 - `@ehtest/core`: core React components
 - `@ehtest/utils`: shared React utilities
 - `@ehtest/tsconfig`: shared `tsconfig.json`s used throughout the monorepo
-- `eslint-preset-ehtest`: ESLint preset
+- `eslint-config-ehtest`: ESLint preset
 
 Each package and app is 100% [TypeScript](https://www.typescriptlang.org/).
 
