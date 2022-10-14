@@ -1,5 +1,11 @@
 # @ehtest/core
 
+## 0.3.0
+
+### Minor Changes
+
+- 7dd857b: Testeroni pnpm
+
 ## 0.2.0
 
 ### Minor Changes
