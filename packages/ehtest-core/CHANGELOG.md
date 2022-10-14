@@ -1,5 +1,11 @@
 # @ehtest/core
 
+## 0.2.0
+
+### Minor Changes
+
+- 5b61d4b: jpsfjposdjfpohpsdf
+
 ## 0.1.0
 
 ### Minor Changes
